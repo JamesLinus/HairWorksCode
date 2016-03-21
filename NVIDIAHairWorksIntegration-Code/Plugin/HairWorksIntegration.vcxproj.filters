@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="HairWorksIntegration.cpp" />
+    <ClCompile Include="hwContext.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="HairWorksIntegration.h" />
+    <ClInclude Include="hwContext.h" />
+    <ClInclude Include="GFSDK_HairWorks.h" />
+    <ClInclude Include="GFSDK_HairWorks_Common.h" />
+    <ClInclude Include="Shaders\GFSDK_HairWorks_ShaderCommon.h">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{01901c9a-fdc1-4bb1-8616-a6f08489ed91}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Shaders\DefaultHairShader.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+    <FxCompile Include="DefaultShadowShader.hlsl">
+      <Filter>Shaders</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

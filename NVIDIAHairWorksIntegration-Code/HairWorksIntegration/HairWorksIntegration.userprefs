@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\HairWorksIntegration\Scripts\HairWorksIntegration.cs">
+    <Files>
+      <File FileName="Assets\HairWorksIntegration\Scripts\HairInstance.cs" Line="499" Column="41" />
+      <File FileName="Assets\HairWorksIntegration\Scripts\HairLight.cs" Line="115" Column="18" />
+      <File FileName="Assets\HairWorksIntegration\Scripts\HairWorksIntegration.cs" Line="392" Column="1" />
+      <File FileName="Assets\ShadowTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\HairWorksIntegration\Scripts\HairWorksShadowManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\SampleShadow.shader" Line="1" Column="1" />
+      <File FileName="..\..\..\Downloads\PostEffects101\Assets\CalculateLightshafts.shader" Line="1" Column="1" />
+      <File FileName="..\..\BlacksmithShadows\New Unity Project\Assets\Features\UniqueShadow\UniqueShadow.cs" Line="1" Column="1" />
+      <File FileName="..\..\BlacksmithShadows\New Unity Project\Assets\Features\UniqueShadow\UniqueShadow_DepthOnly.shader" Line="1" Column="1" />
+      <File FileName="Assets\ShadowDepth.shader" Line="1" Column="1" />
+      <File FileName="Assets\DepthTexture.shader" Line="1" Column="1" />
+      <File FileName="Assets\HairWorksIntegration\Editor\HairInstanceEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Shadow.shader" Line="1" Column="1" />
+      <File FileName="Assets\LightPOV.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Emile\Documents\NVIDIAHairWorksIntegration-master\HairWorksIntegration\Assets\HairWorksIntegration\Scripts\HairWorksIntegration.cs" line="582" column="22" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
